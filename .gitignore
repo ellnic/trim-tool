@@ -1,0 +1,12 @@
+# Editors
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+
+# Shell noise
+*.log
